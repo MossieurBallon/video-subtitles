@@ -1,0 +1,331 @@
+1
+00:00:07,000 --> 00:00:10,380
+Bonjour, voici le tuto de Tux,
+
+2
+00:00:10,500 --> 00:00:16,780
+le manchot qui a envahi le salon des solutions Linux 2012, à Paris.
+
+3
+00:00:17,780 --> 00:00:20,480
+Tout d'abord, il faut gonfler un ballon noir,
+
+4
+00:00:20,480 --> 00:00:24,500
+et laisser environ la largeur d'une main, ou quatre doigts, non gonflée.
+
+5
+00:00:25,400 --> 00:00:28,160
+On fait la même chose avec un ballon blanc.
+
+6
+00:00:28,240 --> 00:00:31,380
+Puis... on attache les deux ballons ensemble.
+
+7
+00:00:32,500 --> 00:00:36,260
+On commence avec le ballon blanc en formant deux bulles identiques
+
+8
+00:00:36,500 --> 00:00:38,560
+d'une longueur d'environ 3 doigts.
+
+9
+00:00:39,360 --> 00:00:42,540
+Et on bloque les deux bulles en les tournant ensemble plusieurs fois...
+
+10
+00:00:42,540 --> 00:00:44,240
+au niveau de leurs bases.
+
+11
+00:00:44,500 --> 00:00:48,680
+Alors, nous avons déjà les deux yeux de notre pingouin !
+
+12
+00:00:48,900 --> 00:00:50,800
+Prenons maintenant le ballon noir,
+
+13
+00:00:51,000 --> 00:00:52,800
+et faisons une large boucle,
+
+14
+00:00:52,800 --> 00:00:56,080
+que nous allons enrouler autour des deux yeux de cette manière.
+
+15
+00:00:56,360 --> 00:01:00,760
+Puis, on tourne la boucle et les deux yeux ensemble pour les bloquer.
+
+16
+00:01:00,900 --> 00:01:04,860
+On chasse le reste de l'air jusqu'à l'extrémité du ballon noir,
+
+17
+00:01:05,380 --> 00:01:10,320
+et, on va le plier en trois parties égales, ou presque égales.
+
+18
+00:01:10,320 --> 00:01:12,760
+En fait, l'extrémité du ballon noir...
+
+19
+00:01:12,900 --> 00:01:15,460
+devra être un peu plus long que les deux autres parties.
+
+20
+00:01:16,000 --> 00:01:17,160
+C'est très simple !
+
+21
+00:01:17,500 --> 00:01:21,280
+Dans un premier temps on évalue rapidement les dimensions,
+
+22
+00:01:21,380 --> 00:01:23,920
+en formant une espèce de zigzag, comme ça !
+
+23
+00:01:24,840 --> 00:01:27,260
+Une fois que l'on sait où faire le premier pli,
+
+24
+00:01:27,540 --> 00:01:32,460
+il suffira de former deux longueurs de ballons parfaitement identiques,
+
+25
+00:01:32,500 --> 00:01:34,860
+que l'on bloquera ensemble à leur base,
+
+26
+00:01:35,200 --> 00:01:38,760
+qui est aussi la base de la tête de notre petite mascotte.
+
+27
+00:01:39,360 --> 00:01:42,500
+Nous venons de lui former les deux ailes.
+
+28
+00:01:43,340 --> 00:01:48,040
+Maintenant, il faut former une petite bulle à l'extrémité du ballon noir,
+
+29
+00:01:48,260 --> 00:01:50,640
+de telle manière que la partie qui longe les deux ailes...
+
+30
+00:01:50,760 --> 00:01:53,120
+soit un peu plus courte... comme ça !
+
+31
+00:01:53,620 --> 00:01:56,380
+Et, en bloquant cette bulle entre les deux ailes,
+
+32
+00:01:56,420 --> 00:02:00,000
+nous formons le dos et la queue de Tux !
+
+33
+00:02:00,500 --> 00:02:05,000
+Reprenons maintenant le ballon blanc.
+
+34
+00:02:05,500 --> 00:02:08,400
+À sa base on forme une bulle bien ronde, 
+
+35
+00:02:08,640 --> 00:02:11,120
+que l'on pince et que l'on tourne, de manière à confectionner...
+
+36
+00:02:11,140 --> 00:02:12,960
+une sorte d'oreille ou de haricot.
+
+37
+00:02:13,620 --> 00:02:19,100
+Cette 'bulle-haricot' nous servira à bloquer et à solidifier la tête de Tux,
+
+38
+00:02:19,200 --> 00:02:21,200
+au-dessus de ses deux ailes et de son dos.
+
+39
+00:02:22,180 --> 00:02:24,820
+Et le reste du ballon blanc viendra en face,
+
+40
+00:02:25,000 --> 00:02:27,000
+pour nous permettre de former le ventre.
+
+41
+00:02:27,500 --> 00:02:29,500
+Alors, contrôle de l'air...
+
+42
+00:02:30,000 --> 00:02:31,620
+On forme un segment de ballon...
+
+43
+00:02:31,760 --> 00:02:34,160
+qui devrait être largement plus grand que le dos,
+
+44
+00:02:34,300 --> 00:02:36,720
+et on le bloque en bas des deux ailes, 
+
+45
+00:02:36,780 --> 00:02:38,840
+au niveau du bas du dos et de la queue.
+
+46
+00:02:39,940 --> 00:02:42,280
+On lui donne une forme pour qu'il soit un peu bedonnant,
+
+47
+00:02:42,500 --> 00:02:46,420
+Tiens, un petit peu comme Môsieur Ballon, qui porte bien son nom !
+
+48
+00:02:46,720 --> 00:02:49,040
+Alors, contrôle de l'air à nouveau...
+
+49
+00:02:49,160 --> 00:02:52,160
+mais cette fois-ci, on pousse bien l'air jusqu'au bout.
+
+50
+00:02:52,720 --> 00:02:56,000
+On forme une petite bulle bien ronde à l'extrémité du ballon blanc,
+
+51
+00:02:56,500 --> 00:02:59,660
+Et on la bloque en bas des deux ailes,
+
+52
+00:02:59,720 --> 00:03:01,540
+au niveau du bas du dos et de la queue.
+
+53
+00:03:01,740 --> 00:03:04,760
+Peu importe de quel côté la bulle ressort pour le moment
+
+54
+00:03:05,100 --> 00:03:08,900
+On plie la grande boucle blanche ainsi formée en deux parties égales,
+
+55
+00:03:09,020 --> 00:03:11,380
+juste pour bien marquer la moitié de cette boucle,
+
+56
+00:03:11,500 --> 00:03:14,440
+et on se sert de cette marque pour diviser
+
+57
+00:03:14,500 --> 00:03:18,160
+la boucle en deux parties égales, en appuyant...
+
+58
+00:03:18,320 --> 00:03:20,840
+et en les tournant tout simplement de cette manière.
+
+59
+00:03:20,980 --> 00:03:23,300
+On peaufine la forme des deux boucles...
+
+60
+00:03:23,320 --> 00:03:25,300
+de manière à ce qu'elles soient bien arrondies,
+
+61
+00:03:25,500 --> 00:03:27,320
+on peaufine également la queue...
+
+62
+00:03:27,380 --> 00:03:29,320
+pour lui donner une petite forme bien courbée,
+
+63
+00:03:29,680 --> 00:03:33,700
+et voilà, notre pingouin/manchot qui commence à prendre forme,
+
+64
+00:03:34,280 --> 00:03:35,760
+sauf qu'il lui manque un petit bec !
+
+65
+00:03:36,500 --> 00:03:39,720
+Le plus simple, c'est de prendre un petit ballon rond,
+
+66
+00:03:39,940 --> 00:03:44,000
+ou de couper l'extrémité d'un ballon à sculpter de couleur jaune.
+
+67
+00:03:44,860 --> 00:03:48,240
+Comme j'ai plein de petits ballons ronds, je vais en utiliser un.
+
+68
+00:03:49,000 --> 00:03:52,000
+Dans un premier temps, on le gonfle normalement,
+
+69
+00:03:52,000 --> 00:03:54,400
+puis on le dégonfle un tout petit peu,
+
+70
+00:03:54,740 --> 00:03:57,180
+jusqu'à ce qu'il prenne une forme un peu pointue.
+
+71
+00:03:57,500 --> 00:04:01,720
+Si nécessaire on appuie un peu sur l'extrémité du ballon,
+
+72
+00:04:01,840 --> 00:04:05,960
+pour que l'air reste bien confiné vers le nœud du ballon.
+
+73
+00:04:07,960 --> 00:04:11,160
+Il ne reste plus qu'à bloquer le nœud du ballon jaune
+
+74
+00:04:11,280 --> 00:04:14,160
+au niveau du 'pinch-twist' à la base de la tête.
+
+75
+00:04:14,860 --> 00:04:18,280
+On affine la forme du bec comme on le désire,
+
+76
+00:04:19,500 --> 00:04:23,240
+et on peut également un peu forcer la boucle noir de la tête,
+
+77
+00:04:23,460 --> 00:04:26,580
+entre les deux yeux pour mieux les mettre en valeur.
+
+78
+00:04:31,260 --> 00:04:35,260
+Et enfin, un petit coup de feutre noir sur les yeux,
+
+79
+00:04:35,620 --> 00:04:36,660
+et le tour est joué !
+
+80
+00:04:38,820 --> 00:04:40,640
+Bon, Tux et moi,
+
+81
+00:04:40,680 --> 00:04:41,800
+on doit aller coder !
+
+82
+00:04:42,200 --> 00:04:44,080
+Je vous dis : à bientôt,
+
+83
+00:04:44,260 --> 00:04:47,860
+pour une autre leçon avec... Môssieur Ballon !
