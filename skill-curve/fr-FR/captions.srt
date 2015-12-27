@@ -1,0 +1,67 @@
+1
+00:00:06,500 --> 00:00:09,000
+Bonjour, ça me fait plaisir de vous revoir !
+
+2
+00:00:10,000 --> 00:00:13,500
+J'aimerais maintenant qu'on travaille sur les arrondis !
+
+3
+00:00:14,000 --> 00:00:17,000
+Faire des arrondis avec les ballons !
+
+4
+00:00:20,500 --> 00:00:23,700
+Il suffit de frotter le ballon (sur lui-même) de cette manière
+
+5
+00:00:24,000 --> 00:00:26,000
+en avançant graduellement,
+
+6
+00:00:26,300 --> 00:00:33,419
+jusqu'à ce que le ballon effectue une rotation complète sur lui-même.
+
+7
+00:00:38,000 --> 00:00:45,000
+On obtient ainsi un cercle.
+
+8
+00:00:45,500 --> 00:00:49,500
+Pour obtenir une spirale, le procédé est presque identique.
+
+9
+00:00:50,000 --> 00:00:53,000
+Comme pour le cercle, on frotte le ballon sur lui-même,
+
+10
+00:00:53,300 --> 00:00:56,000
+mais cette fois-ci, on ne relâche pas le ballon,
+
+11
+00:00:56,500 --> 00:00:59,500
+qui doit conserver la forme d'un ressort comprimé,
+
+12
+00:01:00,000 --> 00:01:03,000
+pendant qu'on continue à le tourner sur lui-même.
+
+13
+00:01:03,200 --> 00:01:06,900
+À la fin, on écarte les deux extrémités du ballon,
+
+14
+00:01:07,500 --> 00:01:12,400
+Puis, on les relâche, très doucement !
+
+15
+00:01:14,000 --> 00:01:16,900
+Alors voilà, entraînez-vous, faîtes des spirales, faîtes des ronds...
+
+16
+00:01:17,300 --> 00:01:19,000
+Et je vous dis... à bientôt !
+
+17
+00:01:19,500 --> 00:01:22,200
+Pour une autre leçon... avec Môssieur Ballon !
