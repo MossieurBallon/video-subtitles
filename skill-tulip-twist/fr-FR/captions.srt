@@ -1,0 +1,135 @@
+1
+00:00:06,640 --> 00:00:07,859
+Bonjour !
+
+2
+00:00:07,860 --> 00:00:10,140
+J’aimerais  maintenant qu'on travaille...
+
+3
+00:00:10,180 --> 00:00:13,540
+sur une technique qui s'appelle : "tulip twist"
+
+4
+00:00:14,820 --> 00:00:18,140
+Il faut introduire l'index dans le ballon de cette manière,
+
+5
+00:00:18,140 --> 00:00:22,740
+afin de repousser le nœud du ballon à l'intérieur.
+
+6
+00:00:23,340 --> 00:00:26,859
+Ensuite l'idée, avec l'autre main...
+
+7
+00:00:26,859 --> 00:00:29,979
+c'est d'attraper le nœud à travers la paroi du ballon,
+
+8
+00:00:29,980 --> 00:00:32,180
+et de le maintenir fermement !
+
+9
+00:00:32,180 --> 00:00:35,180
+Une fois que le nœud est correctement tenu par l'autre main,
+
+10
+00:00:35,360 --> 00:00:41,540
+on peut très doucement retirer l'index de l'intérieur du ballon,
+
+11
+00:00:42,000 --> 00:00:46,560
+en s'aidant du pouce et du majeur si nécessaire,
+
+12
+00:00:46,860 --> 00:00:50,879
+Faites bien attention de ne pas effectuer ces gestes trop brusquement,
+
+13
+00:00:51,260 --> 00:00:53,720
+autrement le ballon pourrait exploser !
+
+14
+00:00:55,460 --> 00:00:58,200
+Et finalement, et bien on tourne le ballon,  
+
+15
+00:00:58,340 --> 00:01:01,060
+comme on ferait avec un simple bulle !
+
+16
+00:01:01,060 --> 00:01:03,000
+Le nœud se retrouve maintenant coincé...
+
+17
+00:01:03,180 --> 00:01:05,640
+de l'autre côté du "tulip-twist"
+
+18
+00:01:06,060 --> 00:01:09,000
+Si on veut utiliser le "tulip-twist" pour faire une fleur,
+
+19
+00:01:09,480 --> 00:01:14,060
+il suffira d'introduire des pétales de la fleur directement dans le pli.
+
+20
+00:01:14,260 --> 00:01:17,680
+Par contre, si on veut laisser le "tulip-twist" tout seul,
+
+21
+00:01:17,700 --> 00:01:21,780
+il faudra repousser un peu le noeud du ballon, comme ça...
+
+22
+00:01:21,980 --> 00:01:24,020
+à l'intérieur du "tulip-twist",
+
+23
+00:01:24,020 --> 00:01:25,900
+afin de mieux le bloquer.
+
+24
+00:01:28,100 --> 00:01:31,380
+Vous verrez ! Les "tulip-twists" sont utilisés, 
+
+25
+00:01:31,380 --> 00:01:33,080
+par exemple pour faire des fleurs,
+
+26
+00:01:33,260 --> 00:01:34,480
+en les mettant au milieu des pétales,
+
+27
+00:01:34,480 --> 00:01:36,540
+nous allons voir ça dans une autre leçon.
+
+28
+00:01:36,760 --> 00:01:39,400
+Pour faire des roues de voitures par exemple,
+
+29
+00:01:39,900 --> 00:01:43,000
+etc, etc, c'est à cette technique très importante...
+
+30
+00:01:43,000 --> 00:01:45,100
+que vous devez maîtriser !
+
+31
+00:01:45,380 --> 00:01:46,630
+Je vous dis...
+
+32
+00:01:46,640 --> 00:01:47,500
+À bientôt !
+
+33
+00:01:47,500 --> 00:01:49,360
+pour une autre leçon avec...
+
+34
+00:01:49,360 --> 00:01:50,620
+Môssieur Ballon !
