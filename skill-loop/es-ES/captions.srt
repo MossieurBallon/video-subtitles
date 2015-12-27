@@ -1,0 +1,63 @@
+1
+00:00:05,900 --> 00:00:07,900
+¡Buenos días!
+
+2
+00:00:07,900 --> 00:00:11,199
+Hoy vamos a aprender una técnica muy sencilla...
+
+3
+00:00:11,199 --> 00:00:12,579
+¡El bucle!
+
+4
+00:00:12,740 --> 00:00:16,140
+Generalmente hacemos un bucle tras una burbuja,
+
+5
+00:00:16,140 --> 00:00:17,400
+no importa el tamaño de la burbuja.
+
+6
+00:00:17,659 --> 00:00:21,659
+Para el bucle si mismo, basta con curvar el globo.
+
+7
+00:00:21,740 --> 00:00:25,600
+Luego, para delimitar el tamaño del bucle, hacer...
+
+8
+00:00:25,700 --> 00:00:28,120
+igual que aprendimos con una burbuja clásica...
+
+9
+00:00:28,280 --> 00:00:30,120
+¡Presionar y girar!
+
+10
+00:00:30,120 --> 00:00:33,420
+Ahora, para bloquearla vamos a juntar...
+
+11
+00:00:33,580 --> 00:00:37,220
+y mantener juntas las dos extremidades del bucle,
+
+12
+00:00:37,360 --> 00:00:39,080
+mientras girando...
+
+13
+00:00:39,080 --> 00:00:42,640
+varias veces en si-misma, de esta manera.
+
+14
+00:00:42,720 --> 00:00:46,540
+¡Ya esta! Os digo hasta pronto...
+
+15
+00:00:46,540 --> 00:00:48,140
+para otra lección...
+
+16
+00:00:48,140 --> 00:00:49,600
+¡Con Môssieur Ballon!
