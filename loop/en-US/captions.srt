@@ -1,0 +1,63 @@
+1
+00:00:05,900 --> 00:00:07,900
+Hello !
+
+2
+00:00:07,900 --> 00:00:11,199
+Today, we will learn a very simple technique...
+
+3
+00:00:11,199 --> 00:00:12,579
+The loop !
+
+4
+00:00:12,740 --> 00:00:16,140
+Générally, we make a loop right after another bubble,
+
+5
+00:00:16,140 --> 00:00:17,400
+Whatever the size of the bubble
+
+6
+00:00:17,659 --> 00:00:21,659
+To make a loop, we simply have to bend the balloon,
+
+7
+00:00:21,740 --> 00:00:25,600
+And then, to determine the size of the loop,
+
+8
+00:00:25,700 --> 00:00:28,120
+do exactly what we learned with the classic bubble :
+
+9
+00:00:28,280 --> 00:00:30,120
+Press and turn !
+
+10
+00:00:30,120 --> 00:00:33,420
+To lock it, we simply have to join...
+
+11
+00:00:33,580 --> 00:00:37,220
+and hold together the two extremities of the loop,
+
+12
+00:00:37,360 --> 00:00:39,080
+while we make it rotate a few times
+
+13
+00:00:39,080 --> 00:00:42,640
+on itself, this way.
+
+14
+00:00:42,720 --> 00:00:46,540
+And that's it!  See you very soon,
+
+15
+00:00:46,540 --> 00:00:48,140
+for a new lesson...
+
+16
+00:00:48,140 --> 00:00:49,600
+with Môssieur Ballon!
