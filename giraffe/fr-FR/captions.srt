@@ -1,0 +1,220 @@
+1
+00:00:06,640 --> 00:00:08,300
+Bonjour !
+
+2
+00:00:08,300 --> 00:00:10,560
+Et si on apprenait à faire une girafe ?
+
+3
+00:00:12,000 --> 00:00:15,099
+Il faut gonfler un ballon, de préférence jaune,
+
+4
+00:00:15,099 --> 00:00:17,080
+en laissant une marge d'environ 5 doigts,
+
+5
+00:00:17,080 --> 00:00:19,360
+ou au choix, une bonne largeur de main.
+
+6
+00:00:19,360 --> 00:00:21,500
+Puis on fait le nœud que l'on repousse bien
+
+7
+00:00:21,500 --> 00:00:26,070
+jusqu'à l'extrémité du ballon afin de ne perdre aucune longueur.
+
+8
+00:00:26,070 --> 00:00:30,140
+On plie le ballon à la distance d'environ
+3 doigts du nœud,
+
+9
+00:00:30,140 --> 00:00:33,860
+puis on fait une bulle juste en dessous du pli.
+
+10
+00:00:33,860 --> 00:00:37,370
+Ce qui nous permet d'excentrer le pli de la bulle
+
+11
+00:00:37,370 --> 00:00:42,460
+et ainsi obtenir l'esquisse d'un front sur la tête de la girafe.
+
+12
+00:00:42,460 --> 00:00:47,260
+Pour former les cornes, on confectionne ensuite une série de 4 bulles
+
+13
+00:00:47,260 --> 00:00:51,040
+La première bulle devra être bien ronde,
+
+14
+00:00:51,040 --> 00:00:54,720
+et la deuxième bulle devra être plus petite que la première.
+
+15
+00:00:54,720 --> 00:00:59,750
+Ensuite, la troisième bulle devra être parfaitement identique à la deuxième,
+
+16
+00:00:59,750 --> 00:01:04,090
+tandis que la quatrième et dernière bulle devra être identique à la première.
+
+17
+00:01:04,090 --> 00:01:05,290
+Comme ceci !
+
+18
+00:01:06,470 --> 00:01:11,400
+On bloque la série de bulles en les faisant pivoter au niveau de leur base.
+
+19
+00:01:11,400 --> 00:01:18,140
+Et ensuite, on fait une petite bulle que l'on transformera en pinch-twist…
+
+20
+00:01:18,140 --> 00:01:25,140
+afin de bien consolider l'ensemble tête/cornes/cou.
+
+21
+00:01:32,800 --> 00:01:36,840
+Si nécessaire, on chasse un peu l'air vers la réserve de ballon.
+
+22
+00:01:36,850 --> 00:01:38,909
+Ensuite, pour le cou de la girafe,
+
+23
+00:01:38,909 --> 00:01:42,040
+on utilisera environ le tiers du segment de ballon restant
+
+24
+00:01:42,040 --> 00:01:45,720
+que l'on peut facilement repérer de cette manière.
+
+25
+00:01:45,720 --> 00:01:51,180
+On plie le ballon au niveau du repère pour former un angle droit,
+
+26
+00:01:51,180 --> 00:01:55,310
+Cette petite déformation de la bulle nous permettra ensuite
+
+27
+00:01:55,310 --> 00:01:59,170
+de diriger le cou plus facilement vers le haut de la girafe.
+
+28
+00:01:59,880 --> 00:02:02,000
+Pour former les pattes avant, on évalue à peu près
+
+29
+00:02:02,000 --> 00:02:04,340
+le quart du segment de ballon restant
+
+30
+00:02:04,650 --> 00:02:07,590
+pour former la bulle de la première patte,
+
+31
+00:02:07,590 --> 00:02:10,940
+qui sera suivie par une deuxième bulle de taille identique.
+
+32
+00:02:10,940 --> 00:02:15,970
+On les bloque bien ensemble et on forme aussitôt après un pinch-twist
+
+33
+00:02:15,970 --> 00:02:20,610
+qui permettra de consolider convenablement le cou par rapport au reste du corps.
+
+34
+00:02:20,610 --> 00:02:25,380
+On chasse le reste de l'air jusqu'au bout du segment de ballon restant
+
+35
+00:02:25,380 --> 00:02:30,319
+que l'on divise en deux parties inégales,
+
+36
+00:02:30,319 --> 00:02:35,040
+la dernière partie devant être un peu plus courte que la première.
+
+37
+00:02:35,040 --> 00:02:38,560
+On place ces deux segments cotes à cotes et on les plie ensemble,
+
+38
+00:02:38,560 --> 00:02:41,510
+presque à l'extrémité du segment le plus court,
+
+39
+00:02:41,510 --> 00:02:44,150
+afin de former en un seul mouvement,
+
+40
+00:02:44,150 --> 00:02:48,660
+les deux pattes arrières, l'abdomen et la queue de la girafe.
+
+41
+00:02:48,660 --> 00:02:52,629
+Les pattes arrières de la girafe doivent être plus courtes que les pattes avant
+
+42
+00:02:52,629 --> 00:02:55,459
+et son dos doit descendre vers l'arrière.
+
+43
+00:02:55,459 --> 00:03:01,530
+Si l'angle que nous avons formé à la base du cou s'est un peu détendu,
+
+44
+00:03:01,530 --> 00:03:05,849
+il faudra le reformer afin que le cou s'élance bien vers le haut,
+
+45
+00:03:05,849 --> 00:03:08,170
+dans le prolongement des pattes avant.
+
+46
+00:03:08,170 --> 00:03:13,620
+On s'assure également que la tête et les cornes soient correctement positionnées…
+
+47
+00:03:13,620 --> 00:03:14,750
+et voilà !
+
+48
+00:03:16,160 --> 00:03:19,100
+Il ne nous reste plus qu'à dessiner les traits de la girafe,
+
+49
+00:03:24,860 --> 00:03:26,250
+ainsi que quelques taches.
+
+50
+00:03:26,660 --> 00:03:29,440
+Mais inutile d'en faire trop, quelques unes suffisent !
+
+51
+00:03:33,220 --> 00:03:37,129
+D'ailleurs, en règle générale, pour le dessin,
+
+52
+00:03:37,129 --> 00:03:40,089
+mieux vaut en faire moins... mais bien !
+
+53
+00:03:47,640 --> 00:03:49,631
+Et voilà ! Le tour est joué ! 
+
+54
+00:03:49,780 --> 00:03:51,280
+Je vous dis... à bientôt !
+
+55
+00:03:51,280 --> 00:03:54,680
+Pour une autre leçon... avec Môssieur Ballon !
