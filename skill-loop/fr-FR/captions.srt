@@ -1,0 +1,63 @@
+1
+00:00:05,900 --> 00:00:07,900
+Bonjour !
+
+2
+00:00:07,900 --> 00:00:11,199
+Aujourd'hui nous allons apprendre une technique très simple...
+
+3
+00:00:11,199 --> 00:00:12,579
+La boucle !
+
+4
+00:00:12,740 --> 00:00:16,140
+Généralement on fait une boucle à la suite d'une bulle,
+
+5
+00:00:16,140 --> 00:00:17,400
+peu importe la taille de la bulle.
+
+6
+00:00:17,659 --> 00:00:21,659
+Pour la boucle elle-même, il suffit de courber le ballon,
+
+7
+00:00:21,740 --> 00:00:25,600
+Puis, pour délimiter la taille de la boucle, faire...
+
+8
+00:00:25,700 --> 00:00:28,120
+comme nous l'avons appris avec une bulle classique...
+
+9
+00:00:28,280 --> 00:00:30,120
+ Appuyer et tourner !
+
+10
+00:00:30,120 --> 00:00:33,420
+Pour la bloquer, nous allons maintenant joindre...
+
+11
+00:00:33,580 --> 00:00:37,220
+et maintenir ensemble les deux extrémités de la boucle,
+
+12
+00:00:37,360 --> 00:00:39,080
+tout en la faisant pivoter...
+
+13
+00:00:39,080 --> 00:00:42,640
+plusieurs fois sur elle-même, de cette manière.
+
+14
+00:00:42,720 --> 00:00:46,540
+Et voilà ! Je vous dis à bientôt...
+
+15
+00:00:46,540 --> 00:00:48,140
+pour une autre leçon...
+
+16
+00:00:48,140 --> 00:00:49,600
+avec Môssieur Ballon !
