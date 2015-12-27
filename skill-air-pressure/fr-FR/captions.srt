@@ -1,0 +1,460 @@
+1
+00:00:06,620 --> 00:00:07,860
+Bonjour !
+
+2
+00:00:07,959 --> 00:00:10,259
+J'aimerais parler avec vous,
+
+3
+00:00:10,540 --> 00:00:12,900
+du contrôle de l'air.
+
+4
+00:00:13,209 --> 00:00:15,200
+Je ne parle pas de l'air qu'on respire,
+
+5
+00:00:15,519 --> 00:00:19,439
+mais du contrôle de l'air qu'on insuffle dans les ballons.
+
+6
+00:00:22,340 --> 00:00:24,920
+Deux problèmes peuvent se présenter à vous.
+
+7
+00:00:25,349 --> 00:00:26,710
+Premier cas de figure,
+
+8
+00:00:26,710 --> 00:00:28,710
+le ballon est beaucoup trop gonflé !
+
+9
+00:00:28,710 --> 00:00:32,330
+Il est très comprimé, et l'air arrive presque jusqu'au bout
+
+10
+00:00:33,270 --> 00:00:35,100
+Second cas de figure,
+
+11
+00:00:35,100 --> 00:00:38,380
+au contraire, le ballon n'est pas assez
+gonflé du tout !
+
+12
+00:00:38,380 --> 00:00:39,499
+Il est tout mou,
+
+13
+00:00:39,499 --> 00:00:41,859
+et il y a beaucoup trop de marge au bout.
+
+14
+00:00:43,030 --> 00:00:45,460
+Commençons par celui qui est trop gonflé.
+
+15
+00:00:45,720 --> 00:00:47,480
+L'idée, c'est de garder l'air....
+
+16
+00:00:47,640 --> 00:00:49,240
+ le plus possible, à l'avant du ballon.
+
+17
+00:00:49,360 --> 00:00:51,620
+Et surtout, surtout...
+
+18
+00:00:51,620 --> 00:00:54,180
+de ne pas le pousser vers l'arrière.
+
+19
+00:00:54,180 --> 00:00:56,820
+Alors déjà pour commencer, on va tricher un peu...
+
+20
+00:00:56,820 --> 00:00:58,280
+ en tirant sur le nœud,
+
+21
+00:00:58,480 --> 00:01:00,440
+de manière à récupérer de la place,
+
+22
+00:01:00,440 --> 00:01:02,460
+et permettre à l'air de se loger...
+
+23
+00:01:02,520 --> 00:01:04,480
+dans un peu plus d'espace supplémentaire.
+
+24
+00:01:05,390 --> 00:01:07,850
+Ensuite on va faire très attention...
+
+25
+00:01:08,000 --> 00:01:10,660
+à ne pas appuyer sur le ballon plus que nécessaire,
+
+26
+00:01:10,720 --> 00:01:13,720
+et on va garder le ballon aussi comprimé que possible.
+
+27
+00:01:13,940 --> 00:01:18,140
+Pour cela, exceptionnellement, on tournera le ballon le moins possible,
+
+28
+00:01:18,340 --> 00:01:20,240
+parce que plus on tourne le ballon...
+
+29
+00:01:20,240 --> 00:01:22,880
+et plus on pousse l'air vers l'arrière.
+
+30
+00:01:23,000 --> 00:01:26,160
+Et ça, on veut absolument l'éviter !
+
+31
+00:01:26,260 --> 00:01:29,000
+Donc, juste un petit tour, ça suffit.
+
+32
+00:01:29,180 --> 00:01:31,000
+Alors évidemment...
+
+33
+00:01:31,000 --> 00:01:33,040
+quand le ballon est très comprimé comme ça,
+
+34
+00:01:33,040 --> 00:01:35,960
+il faut mieux le manipuler avec plus de précautions...
+
+35
+00:01:36,080 --> 00:01:38,420
+et un peu plus lentement que d'habitude.
+
+36
+00:01:38,420 --> 00:01:40,400
+et vous voyez que pour l'instant, j'ai réussi... 
+
+37
+00:01:40,420 --> 00:01:42,420
+à conserver ma marge au bout du ballon,
+
+38
+00:01:42,700 --> 00:01:46,040
+tout simplement en limitant les tours de bulles,
+
+39
+00:01:46,240 --> 00:01:49,120
+et en évitant d'appuyer sur le ballon.
+
+40
+00:01:49,660 --> 00:01:52,360
+Ah ! Là je suis arrivé au bout du ballon,
+
+41
+00:01:52,580 --> 00:01:54,280
+et je n'ai plus aucune marge.
+
+42
+00:01:55,620 --> 00:01:57,460
+Nous allons encore tricher un peu,
+
+43
+00:01:58,190 --> 00:02:01,110
+Au lieu de faire des segments les uns après les autres,
+
+44
+00:02:01,110 --> 00:02:04,200
+je vais diviser le reste de mon ballon en deux.
+
+45
+00:02:04,200 --> 00:02:07,600
+Juste en deux segments de pression équivalente.
+
+46
+00:02:08,440 --> 00:02:10,860
+Et plus tard, eux aussi, je vais les diviser en deux.
+
+47
+00:02:10,860 --> 00:02:11,860
+Vous allez voir !
+
+48
+00:02:12,120 --> 00:02:15,280
+De cette manière, je répartis équitablement...
+
+49
+00:02:15,320 --> 00:02:18,160
+la pression du ballon entre les quatre derniers segments.
+
+50
+00:02:18,359 --> 00:02:19,519
+Je vérifie... 
+
+51
+00:02:19,519 --> 00:02:22,570
+Oui la pression et bien équilibrée dans les pattes avant,
+
+52
+00:02:22,570 --> 00:02:24,949
+le ventre, les pattes arrière, et la queue.
+
+53
+00:02:25,100 --> 00:02:26,840
+J'essaie quand même de donner une forme...
+
+54
+00:02:26,940 --> 00:02:29,680
+un peu plus naturelle à la queue, et voilà!
+
+55
+00:02:30,220 --> 00:02:33,100
+Pour récapituler, si votre ballon est trop gonflé...
+
+56
+00:02:33,380 --> 00:02:35,620
+il faut s'assurer que la pression ne se libère pas...
+
+57
+00:02:35,629 --> 00:02:37,309
+tout de suite vers l'arrière du ballon,
+
+58
+00:02:37,380 --> 00:02:39,160
+ mais qu'elle reste équilibrée,
+
+59
+00:02:39,340 --> 00:02:42,760
+ du début à la fin de votre sculpture
+
+60
+00:02:43,100 --> 00:02:45,880
+Maintenant, avec le ballon sous-gonflé,
+
+61
+00:02:45,880 --> 00:02:48,540
+nous allons faire tous le contraire.
+
+62
+00:02:48,829 --> 00:02:50,609
+Quand le ballon était trop gonflé,
+
+63
+00:02:50,720 --> 00:02:52,880
+on essayait de conserver l'air vers l'avant.
+
+64
+00:02:53,060 --> 00:02:54,440
+Là, au contraire...
+
+65
+00:02:54,440 --> 00:02:57,100
+notre stratégie sera de chasser l'air...
+
+66
+00:02:57,200 --> 00:02:59,600
+le plus possible vers l'arrière du ballon.
+
+67
+00:02:59,600 --> 00:03:01,200
+Et même si c'est nécessaire,
+
+68
+00:03:01,300 --> 00:03:04,100
+on peut coincer le ballon entre le bras et les côtes
+
+69
+00:03:04,260 --> 00:03:07,040
+pour forcer l'air encore plus loin en arrière.
+
+70
+00:03:07,280 --> 00:03:08,220
+Et là regardez...
+
+71
+00:03:08,399 --> 00:03:11,699
+on a déjà réussi à bien raccourcir la réserve.
+
+72
+00:03:12,239 --> 00:03:14,479
+Bon ensuite c'est comme d'habitude,
+
+73
+00:03:14,479 --> 00:03:16,200
+sauf qu'on va tourner le ballon...
+
+74
+00:03:16,200 --> 00:03:18,260
+le plus de fois possible sur lui-même,
+
+75
+00:03:18,300 --> 00:03:19,599
+lorsqu'on forme les bulles.
+
+76
+00:03:19,600 --> 00:03:21,760
+Donc au lieu de tourner trois fois, vous allez tourner...
+
+77
+00:03:21,980 --> 00:03:23,420
+allez, dix fois si nécessaire !
+
+78
+00:03:23,580 --> 00:03:24,860
+Rappelez-vous...
+
+79
+00:03:25,339 --> 00:03:27,739
+les tours de ballons prennent la place de l'air,
+
+80
+00:03:27,840 --> 00:03:29,420
+et le pousse vers l'arrière.
+
+81
+00:03:29,639 --> 00:03:30,879
+Et dans ce cas...
+
+82
+00:03:30,879 --> 00:03:32,999
+c'est exactement ce qu'on veux faire.
+
+83
+00:03:33,120 --> 00:03:35,939
+Donc, on appuie bien sur le ballon en formant les bulles,
+
+84
+00:03:35,939 --> 00:03:39,389
+et on continue régulièrement à chasser l'air du ballon vers l'arrière,
+
+85
+00:03:39,389 --> 00:03:42,959
+dès que la pression de l'air se reconstitue après quelques bulles
+
+86
+00:03:42,959 --> 00:03:45,120
+Il faut utiliser toute la pression des deux mains,
+
+87
+00:03:45,120 --> 00:03:47,580
+et même du bras s'il le faut.
+
+88
+00:03:50,389 --> 00:03:52,569
+À chaque blocage des bulles,  par exemple...
+
+89
+00:03:52,569 --> 00:03:53,569
+là, au niveau des pattes,
+
+90
+00:03:53,829 --> 00:03:57,869
+on continue de tourner le ballon plus que nécessaire.
+
+91
+00:03:58,780 --> 00:03:59,800
+Et on continue comme ça, 
+
+92
+00:03:59,860 --> 00:04:01,580
+à chaque fois en appuyant un peu plus, 
+
+93
+00:04:01,760 --> 00:04:04,140
+pour former les bulles et les différentes sections du ballon.
+
+94
+00:04:11,209 --> 00:04:13,470
+Et cette fois-ci, on peut se permettre...
+
+95
+00:04:13,470 --> 00:04:15,850
+de biens accentuer la forme naturelle...
+
+96
+00:04:15,850 --> 00:04:17,660
+de la queue et du ventre
+
+97
+00:04:19,209 --> 00:04:20,529
+Et au final, regardez...
+
+98
+00:04:20,700 --> 00:04:23,580
+On a complètement rattrapé l'énorme marge
+
+99
+00:04:23,590 --> 00:04:25,430
+de ballon vide qu'il y avait au départ.
+
+100
+00:04:25,550 --> 00:04:28,340
+Maintenant, comparons les deux figurines...
+
+101
+00:04:28,340 --> 00:04:32,139
+Vous voyez qu'en dépit d'un très mauvais gonflage au départ,
+
+102
+00:04:32,139 --> 00:04:35,199
+nous avons tout de même réussi à faire nos petits chiens 
+
+103
+00:04:35,360 --> 00:04:37,979
+dans les deux cas, et sans les exploser...
+
+104
+00:04:37,979 --> 00:04:40,789
+ou au contraire sans qu'il se défasse tout seul.
+
+105
+00:04:40,789 --> 00:04:43,560
+Et tout ça simplement en maîtrisant...
+
+106
+00:04:43,560 --> 00:04:46,020
+le contrôle de la pression de l'air.
+
+107
+00:04:47,520 --> 00:04:51,080
+Le contrôle de l'air est primordial !
+
+108
+00:04:51,590 --> 00:04:54,830
+C'est la différence entre un pro et un débutant,
+
+109
+00:04:55,120 --> 00:04:57,420
+la différence entre un ballon...
+
+110
+00:04:57,540 --> 00:05:00,520
+qui explose dans les mains d'un pauvre enfant,
+
+111
+00:05:00,520 --> 00:05:03,240
+ou à l'opposé d'un ballon qui se défait tout seul,
+
+112
+00:05:03,240 --> 00:05:05,160
+par manque de tonicité,
+
+113
+00:05:05,169 --> 00:05:09,349
+alors, entraînez-vous à contrôler l'air des ballons
+
+114
+00:05:09,680 --> 00:05:12,460
+Je vous dis :  à bientôt !
+
+115
+00:05:12,680 --> 00:05:15,380
+pour une autre leçon avec... Môssieur Ballon !
