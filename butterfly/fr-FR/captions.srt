@@ -1,0 +1,265 @@
+1
+00:00:06,750 --> 00:00:07,730
+Bonjour !
+
+2
+00:00:07,730 --> 00:00:10,610
+Et si je vous apprenais à faire un petit papillon ?
+
+3
+00:00:12,749 --> 00:00:15,009
+Il faut gonfler un ballon jusqu'au bout,
+
+4
+00:00:15,280 --> 00:00:18,860
+puis laisser s’échapper un peu d'air pour relâcher la pression.
+
+5
+00:00:18,869 --> 00:00:20,969
+Le ballon doit être assez mou.
+
+6
+00:00:21,509 --> 00:00:23,089
+Puis...
+
+7
+00:00:23,089 --> 00:00:27,710
+attacher les deux extrémités ensemble
+pour former une grande boucle,
+
+8
+00:00:27,980 --> 00:00:32,420
+s'assurer que l'air soit harmonieusement répartis sur l'ensemble de la boucle,
+
+9
+00:00:33,350 --> 00:00:36,390
+repérer le milieu de la boucle à l'opposé
+du nœud,
+
+10
+00:00:36,520 --> 00:00:41,320
+et séparer la boucle en deux segments de longueur identique.
+
+11
+00:00:42,800 --> 00:00:45,240
+Tenir les deux segments ensemble, côte à côte,
+
+12
+00:00:45,420 --> 00:00:48,680
+et repérer, à peu près, le tiers de leur longueur.
+
+13
+00:00:49,210 --> 00:00:50,670
+Mais, attention !
+
+14
+00:00:50,670 --> 00:00:55,950
+Il faut diviser les deux segments ensemble à un peu --plus-- de leurs tiers,
+
+15
+00:00:55,950 --> 00:00:59,170
+de manière à avoir un côté plus grand, et  l'autre... plus petit.
+
+16
+00:01:00,500 --> 00:01:04,100
+Plier le ballon afin de réunir les deux extrémités ensemble,
+
+17
+00:01:04,100 --> 00:01:07,440
+puis, les rapprocher du pli central,
+
+18
+00:01:07,440 --> 00:01:09,820
+de manière à former quatre boucles.
+
+19
+00:01:10,080 --> 00:01:15,080
+Effectuer ensuite plusieurs rotations à  leur base pour bloquer les quatre boucles ensemble.
+
+20
+00:01:15,440 --> 00:01:19,000
+C'est pratiquement la même manipulation que pour les pétales de la fleur,
+
+21
+00:01:19,189 --> 00:01:23,270
+sauf que c'est plus simple puisqu'il n'y
+a que quatre boucles au lieu de six.
+
+22
+00:01:23,270 --> 00:01:25,390
+Nous venons de faire les ailes du papillon,
+
+23
+00:01:25,390 --> 00:01:27,680
+que nous allons mettre de côté pour l'instant,
+
+24
+00:01:27,680 --> 00:01:30,420
+par exemple en les calant sous l'un des bras.
+
+25
+00:01:30,700 --> 00:01:34,660
+Prendre ensuite à un autre ballon de
+préférence de couleur plus claire,
+
+26
+00:01:34,670 --> 00:01:37,970
+car plus tard nous allons dessiner dessus.
+
+27
+00:01:37,970 --> 00:01:39,680
+Le gonfler au milieu...
+
+28
+00:01:39,680 --> 00:01:42,620
+d'une longueur d'environ un doigt (dans le sens de sa longueur, ou quatre doigts dans le sens de leur  largeur).
+
+29
+00:01:42,620 --> 00:01:44,080
+Alors... pour rappel,
+
+30
+00:01:44,280 --> 00:01:47,520
+si vous ne savez pas encore gonfler le
+ballon directement au milieu,
+
+31
+00:01:47,530 --> 00:01:50,680
+et bien, vous pouvez toujours gonfler le
+ballon normalement,
+
+32
+00:01:50,680 --> 00:01:53,220
+puis repousser manuellement la bulle,
+
+33
+00:01:53,420 --> 00:01:56,280
+jusqu'à ce qu'elle soit positionnée au centre du ballon,
+
+34
+00:01:56,280 --> 00:01:58,560
+et que les deux longueurs de ballons non gonflés...
+
+35
+00:01:58,760 --> 00:02:02,000
+soient, à peu près, de la même taille, des deux côtés de la bulle.
+
+36
+00:02:02,740 --> 00:02:05,460
+Courber ensuite la bulle au milieu du ballon,
+
+37
+00:02:05,470 --> 00:02:09,090
+de manière à former une petite boucle.
+
+38
+00:02:09,460 --> 00:02:13,680
+Puis attacher ensemble les deux extrémités de ballons à la base de cette boucle.
+
+39
+00:02:14,209 --> 00:02:17,809
+Nous avons maintenant les deux antennes !
+
+40
+00:02:18,560 --> 00:02:23,060
+Par contre, il ne faut pas que la pression de l'air soient trop forte dans cette petite boucle,
+
+41
+00:02:23,420 --> 00:02:27,200
+parce que nous avons maintenant la diviser elle même en deux nouvelles bulles,
+
+42
+00:02:27,380 --> 00:02:31,759
+une plus grande... et une plus petite... comme ceci !
+
+43
+00:02:31,940 --> 00:02:36,380
+Puis, on transforme la plus petite bulle en bulle oreille (Pinch Twist).
+
+44
+00:02:36,799 --> 00:02:44,159
+La plus grosse bulle deviendra automatiquement une toute petite... petite... mini boucle.
+
+45
+00:02:45,309 --> 00:02:50,289
+Nous avons maintenant la tête, le corps, et les deux antennes du papillon.
+
+46
+00:02:50,609 --> 00:02:54,269
+Il ne nous reste plus qu'à les assembler aux ailes.
+
+47
+00:02:54,269 --> 00:02:58,159
+Le plus simple c'est de tenir la bulle oreille et les deux antennes...
+
+48
+00:02:58,159 --> 00:03:00,949
+à l'intérieur de la paume de manipulation,
+
+49
+00:03:00,949 --> 00:03:06,349
+tout en laissant la mini boucle ressortir entre le majeur et l'index.
+
+50
+00:03:06,349 --> 00:03:10,929
+Nous allons faire tourner cette mini boucle autour du pli des ailes du papillon,
+
+51
+00:03:11,200 --> 00:03:13,140
+afin de bloquer les deux ballons ensemble.
+
+52
+00:03:13,149 --> 00:03:15,749
+Un seul tour devrait être suffisant.
+
+53
+00:03:15,749 --> 00:03:18,949
+Le fait d'avoir les antennes cachées à l'intérieur de la main...
+
+54
+00:03:19,120 --> 00:03:22,380
+les empêchera de se retrouver emmêlées dans les boucles.
+
+55
+00:03:22,680 --> 00:03:27,219
+Ensuite, on ajuste le tout, les deux ailes plus grandes vers le haut,
+
+56
+00:03:27,219 --> 00:03:31,439
+la bulle oreille de la tête vers le haut également, ainsi que les deux antennes,
+
+57
+00:03:31,520 --> 00:03:35,299
+qui devront ressortir entre la tête et les ailes supérieures.
+
+58
+00:03:35,299 --> 00:03:39,009
+On dessine les yeux, les sourcils, un grand sourire,
+
+59
+00:03:39,009 --> 00:03:40,529
+et le tour est joué !
+
+60
+00:03:41,459 --> 00:03:42,669
+Les papillons...
+
+61
+00:03:42,669 --> 00:03:44,209
+c'est mignon !
+
+62
+00:03:44,309 --> 00:03:47,459
+Encore plus quand ils sont posés sur une fleur !
+
+63
+00:03:47,459 --> 00:03:49,430
+Je vous dis... à bientôt !
+
+64
+00:03:49,430 --> 00:03:50,999
+Pour une autre leçon avec...
+
+65
+00:03:50,999 --> 00:03:52,339
+Môssieur Ballon !
